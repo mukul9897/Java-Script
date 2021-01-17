@@ -8,3 +8,8 @@
 
 ## 03 - CSS Variables
 ![alt text](https://github.com/mukul9897/Java-Script/blob/main/03%20-%20CSS%20Variables/Screenshot%20from%202021-01-17%2015-34-22.png)
+
+## 04 - Array Cardio Day 1
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/04%20-%20Array%20Cardio%20Day%201/Screenshot%20from%202021-01-18%2002-35-03.png)
+
+
