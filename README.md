@@ -21,4 +21,7 @@
 ## 07 - Array Cardio Day 2
 ![alt text](https://github.com/mukul9897/Java-Script/blob/main/07%20-%20Array%20Cardio%20Day%202/Screenshot%20from%202021-02-01%2000-07-27.png)
 
+## 08 - Fun with HTML5 Canvas
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/08%20-%20Fun%20with%20HTML5%20Canvas/Screenshot%20from%202021-02-01%2003-28-05.png)
+
 
