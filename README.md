@@ -18,3 +18,7 @@
 ## 06 - Type Ahead
 ![alt text](https://github.com/mukul9897/Java-Script/blob/main/06%20-%20Type%20Ahead/Screenshot%20from%202021-01-31%2023-41-41.png)
 
+## 07 - Array Cardio Day 2
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/07%20-%20Array%20Cardio%20Day%202/Screenshot%20from%202021-02-01%2000-07-27.png)
+
+
