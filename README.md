@@ -14,3 +14,7 @@
 
 ## 05 - Flex Panel Gallery
 ![alt text](https://github.com/mukul9897/Java-Script/blob/main/05%20-%20Flex%20Panel%20Gallery/Screenshot%20from%202021-01-23%2001-42-41.png)
+
+## 06 - Type Ahead
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/06%20-%20Type%20Ahead/Screenshot%20from%202021-01-31%2023-41-41.png)
+
