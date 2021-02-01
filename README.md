@@ -30,3 +30,6 @@
 ## 10 - Hold Shift and Check Checkboxes
 ![alt text](https://github.com/mukul9897/Java-Script/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/Screenshot%20from%202021-02-02%2000-34-13.png)
 
+## 11 - Custom Video Player
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/11%20-%20Custom%20Video%20Player/Screenshot%20from%202021-02-02%2002-18-56.png)
+
