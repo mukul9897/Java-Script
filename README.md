@@ -25,7 +25,8 @@
 ![alt text](https://github.com/mukul9897/Java-Script/blob/main/08%20-%20Fun%20with%20HTML5%20Canvas/Screenshot%20from%202021-02-01%2003-28-05.png)
 
 ## 09 - Dev Tools Domination
-![alt text](https://github.com/mukul9897/Java-Script/blob/main/09%20-%20Dev%20Tools%20Domination/Screenshot%20from%202021-02-01%2023-55-53.png
-)
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/09%20-%20Dev%20Tools%20Domination/Screenshot%20from%202021-02-01%2023-55-53.png)
 
+## 10 - Hold Shift and Check Checkboxes
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/Screenshot%20from%202021-02-02%2000-34-13.png)
 
