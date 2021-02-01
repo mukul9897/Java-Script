@@ -24,4 +24,8 @@
 ## 08 - Fun with HTML5 Canvas
 ![alt text](https://github.com/mukul9897/Java-Script/blob/main/08%20-%20Fun%20with%20HTML5%20Canvas/Screenshot%20from%202021-02-01%2003-28-05.png)
 
+## 09 - Dev Tools Domination
+![alt text](https://github.com/mukul9897/Java-Script/blob/main/09%20-%20Dev%20Tools%20Domination/Screenshot%20from%202021-02-01%2023-55-53.png
+)
+
 
